@@ -1,7 +1,6 @@
 {
   "name": "nfc-stamp-api",
   "version": "1.0.0",
-  "description": "Simple NFC stamp API server",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
